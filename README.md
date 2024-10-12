@@ -1,0 +1,2 @@
+# Python_for_kids-Python_for_everyone-python_for_free
+This personal project empowers underprivileged girls aged 16 to 18 by teaching them Python programming. It accommodates diverse backgrounds, including arts and computer experience. I provide free resources—PowerPoint presentations, lesson transcripts, personal notes, and exercises—that cannot be charged for, ensuring accessibility for all learners.
