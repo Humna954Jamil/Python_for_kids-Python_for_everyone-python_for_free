@@ -1,0 +1,12 @@
+Programming language: sets of words and symbols to write a program 
+
+Two types
+1. High level language: It is language that is understandable by humans. every high level language has a specific syntax (collection of rules). example: C++, java, Python, Ruby etc 
+2. Low level language: It's closer to computers and far away from humans. Computers can easily understand them but it is difficult for humans to understand.
+ It is further divided into Machine language and  Assembly language
+Machine Language: It is a low level language that has instructions written in it in binary form such as 0's and 1's. It is a fundamental language of computers.
+
+Assembly language: It is a type of low level language that uses mnemonics (human-readable symbols) instead of binary.
+For example: MOV, ADD, SUB 
+
+Flow: High level -> Assembly (assembler) -> Machine language
